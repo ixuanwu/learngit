@@ -4,3 +4,4 @@ tracks changes the files
 what the fuck!
 add a dev branch
 Creating a new branch is quick AND simple.
+test --no--ff merge
