@@ -8,3 +8,4 @@ test --no--ff merge
 I'm doing something
 Hechao have done his homework
 Lily is doing her homework
+Lily have done her homework
