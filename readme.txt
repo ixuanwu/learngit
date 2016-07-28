@@ -6,3 +6,4 @@ add a dev branch
 Creating a new branch is quick AND simple.
 test --no--ff merge
 I'm doing something
+Lily is doing her homework
